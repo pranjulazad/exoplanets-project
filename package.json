@@ -1,0 +1,19 @@
+{
+  "name": "findexoplanet",
+  "version": "1.0.0",
+  "description": "upload csv file which have some data about planets like pl_hostname and pl_letter and using that information this will provide you some info.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PranjulAzad (101403139)",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.4",
+    "sync-request": "^4.1.0"
+  }
+}

@@ -1,0 +1,13 @@
+body {
+    background-color: #cccccc;
+}
+
+#fileUpload{
+    color: blue;
+    font-family: verdana;
+    font-size: 100%;
+}
+
+#table1,#table2,#table3{
+    border: 1px solid black;
+}
